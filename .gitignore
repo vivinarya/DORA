@@ -1,0 +1,7 @@
+﻿node_modules/
+dist/
+cdk.out/
+*.js
+!jest.config.js
+.env
+".DS_Store
